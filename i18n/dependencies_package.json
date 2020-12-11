@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "i18next": "^19.8.4",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-http-backend": "^1.0.21",
+    "react-i18next": "^11.7.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "i18next-parser": "^3.3.0"
+  }
+}
